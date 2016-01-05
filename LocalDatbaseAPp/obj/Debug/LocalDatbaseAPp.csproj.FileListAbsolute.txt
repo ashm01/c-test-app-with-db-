@@ -1,0 +1,11 @@
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\bin\Debug\LocalDatbaseAPp.exe.config
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\bin\Debug\Employee.mdf
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\bin\Debug\Employee_log.ldf
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\bin\Debug\LocalDatbaseAPp.exe
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\bin\Debug\LocalDatbaseAPp.pdb
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\obj\Debug\LocalDatbaseAPp.csprojResolveAssemblyReference.cache
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\obj\Debug\LocalDatbaseAPp.Form1.resources
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\obj\Debug\LocalDatbaseAPp.Properties.Resources.resources
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\obj\Debug\LocalDatbaseAPp.csproj.GenerateResource.Cache
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\obj\Debug\LocalDatbaseAPp.exe
+c:\users\moora\onedrive\documents\visual studio 2015\Projects\LocalDatbaseAPp\LocalDatbaseAPp\obj\Debug\LocalDatbaseAPp.pdb
